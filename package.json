@@ -16,10 +16,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
-    "morgan": "^1.9.1"
+    "jquery": "^3.4.1",
+    "morgan": "^1.9.1",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-coverflow": "^0.2.20",
+    "react-dom": "^16.11.0",
+    "react-responsive-carousel": "^3.1.51"
   },
   "devDependencies": {
     "concurrently": "^5.0.0",
